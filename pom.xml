@@ -23,7 +23,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 
-		<httpclient.version>4.5.1</httpclient.version>
+		<httpclient.version>4.5.13</httpclient.version>
 		<httpclient-core.version>4.4.6</httpclient-core.version>
 		<httpclient-httpmime.version>4.3.1</httpclient-httpmime.version>
 		<httpclient-async.version>4.1.3</httpclient-async.version>
